@@ -175,4 +175,7 @@ To execute the project pipeline:
 - **Refine Forecasting Techniques**: Experiment with hybrid models and ensemble methods for improved prediction accuracy.
 - **Enhance Risk Management**: Implement advanced risk metrics such as Conditional Value at Risk (CVaR) to strengthen downside protection.
 
+### Authors
+This project was completed by [Tadesse Abateneh](https://www.linkedin.com/in/tadesse-abateneh) 
 
+For further details, questions, or collaborations, please reach out to [Email](tedoaba@gmail.com)
